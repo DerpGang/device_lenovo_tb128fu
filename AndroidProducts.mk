@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/evolution_tb128fu.mk
+    $(LOCAL_DIR)/voltage_tb128fu.mk
 
 COMMON_LUNCH_CHOICES := \
-    evolution_tb128fu-user \
-    evolution_tb128fu-userdebug \
-    evolution_tb128fu-eng
+    voltage_tb128fu-user \
+    voltage_tb128fu-userdebug \
+    voltage_tb128fu-eng
