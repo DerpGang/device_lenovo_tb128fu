@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <device name="Android">
-    <item name="battery.capacity">7500</item>
+    <item name="battery.capacity">7700</item>
     <item name="screen.on">79.01</item>
     <item name="screen.full">479.19</item>
     <item name="camera.flashlight">158</item>
